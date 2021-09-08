@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshwinAnand868
+- 👋 Hi, I’m Ashwin Anand
 - 👀 I’m interested in doing coding.
 - 🌱 I’m currently doing comptuer programming diploma.
 - 💞️ I’m looking to collaborate on ...
