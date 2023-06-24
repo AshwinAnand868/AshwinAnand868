@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Ashwin Anand. I am a Full-stack developer.
-- 👀 I am passionate about developing software applications and that's why I am practicing programming languages like Java, which is one of the most popular languages to develop Android or Desktop-based applications. Recently, I have really liked working with C++ in the Computer Programming Course at Seneca College because that language gave me an important or core knowledge of how the concepts work that are usually abstracted from programmers in another languages.
-- 💞️ I’m very fascinated and looking to collaborate on the languages which I have been learning, for example C++, Java and Python. Along with this, I am also looking to apply my knowledge in both front-end and back-end web development technologies and have fair knowledge of database management languages like SQL and T-SQL.
-- 📫 Please contact me if you have any opportunities at my email anandashwin868@gmail.com. I am open to learn or collaborate as of now.
+- 👋 Hi, I’m Ashwin Anand. I am a Full-stack developer, utlizing technologies such as Java, C#, .NET, Angular, React and others to create applications that not only provide a great user experience but also are scalable, performant and reliable depending upon the needs that grow with time and customers.
+- 👀 Here, you could explore the applications and my personal projects that I have worked on. Whenever, I develop something to practice my skills and test myself, I push that here and by doing this, I always keep it updated.
+- 💞️ I’m very fascinated and eager to collaborate with like-minded people. If you have an idea that you need someone to work on and expand, then reach out to me and we can definitely take it further.
+- 🤔 Hmm... I want to know more about you (if you have this in mind) and you would like to know more about my personality, then please go to the below provided hyperlink to my LinkedIn profile, which gives you a better professional picture of myself.
+- 📫 What would be the best way to get in contact? I would say that it will be through LinkedIn which is located at the following web address: https://www.linkedin.com/in/ashwin-anand-186012211/ or the other way is to send me an email at anandashwin868@gmail.com.
+
+ 
+ If contacted, I would definitely get back to you with in the span of 24 hours 😉.
+ 
 <!---
 AshwinAnand868/AshwinAnand868 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
